@@ -67,6 +67,7 @@ input#first-name,
 .footer {
   background-color: #fa9b03;
   color: white;
+  overflow-x: hidden;
 }
 
 #brand-name-2 {
